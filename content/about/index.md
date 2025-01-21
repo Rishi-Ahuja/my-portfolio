@@ -1,4 +1,8 @@
-## About Me
+---
+title: About Me
+hidemeta: true
+---
+
 
 Hi, I’m **Rishi Ahuja**, a 1B Computer Science student at the University of Waterloo.
 
