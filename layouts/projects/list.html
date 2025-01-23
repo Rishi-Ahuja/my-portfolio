@@ -1,0 +1,13 @@
+<div class="project-grid">
+    {{ range .Pages }}
+    <div class="card">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+        <div class="card-content">
+            <h3 class="card-title">{{ .Title }}</h3>
+            <p>{{ .Params.description }}</p>
+            <p class="card-tech-stack">Tech Stack: {{ delimit .Params.tech_stack ", " }}</p>
+            <a class="card-link" href="{{ .Params.github }}" target="_blank">View on GitHub</a>
+        </div>
+    </div>
+    {{ end }}
+</div>

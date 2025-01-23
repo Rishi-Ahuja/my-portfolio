@@ -2,24 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rishi Ahuja&#39;s Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://rishiahuja.me/</link>
     <description>Recent content on Rishi Ahuja&#39;s Portfolio</description>
     <image>
       <title>Rishi Ahuja&#39;s Portfolio</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://rishiahuja.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://rishiahuja.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rishiahuja.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://rishiahuja.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://rishiahuja.me/about/</guid>
       <description>&lt;p&gt;Hi, I’m &lt;strong&gt;Rishi Ahuja&lt;/strong&gt;, a 1B Computer Science student at the University of Waterloo.&lt;/p&gt;
 &lt;p&gt;During my time at the University of Waterloo, I’ve had the privilege of being selected as one of the two &lt;strong&gt;Undergraduate Representatives&lt;/strong&gt; for the &lt;strong&gt;David R. Cheriton School of Computer Science Council&lt;/strong&gt;. This role has given me &lt;strong&gt;voting rights on critical school matters&lt;/strong&gt;, allowing me to actively contribute to decisions that shape the academic experience.&lt;/p&gt;
 &lt;p&gt;Beyond programming, I enjoy immersing myself in cricket, relaxing with sitcoms, and taking long walks that allow me to reflect and recharge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://rishiahuja.me/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rishiahuja.me/projects/</guid>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;p&gt;Welcome to my projects page! Explore some of my work:&lt;/p&gt;
+&lt;p&gt;+++
+title = &amp;ldquo;Textura&amp;rdquo;
+description = &amp;ldquo;AI-powered text classification and formatting.&amp;rdquo;
+image = &amp;ldquo;path/to/textura-image.png&amp;rdquo;
+tech_stack = [&amp;ldquo;Python&amp;rdquo;, &amp;ldquo;OpenAI API&amp;rdquo;, &amp;ldquo;Word Integration&amp;rdquo;]
+github = &amp;ldquo;&lt;a href=&#34;https://github.com/your-profile/textura%22&#34;&gt;https://github.com/your-profile/textura&amp;quot;&lt;/a&gt;
++++&lt;/p&gt;
+&lt;h3 id=&#34;textura&#34;&gt;Textura&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: AI classifies raw text into sections and outputs a formatted Word file.&lt;br&gt;
+&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python, OpenAI API, Word Integration&lt;br&gt;
+&lt;a href=&#34;https://github.com/your-profile/textura&#34;&gt;GitHub Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

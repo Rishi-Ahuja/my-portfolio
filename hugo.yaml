@@ -15,6 +15,7 @@ minify:
   minifyOutput: true
 
 params:
+  customCSS : ["css/extended/custom.css"]
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Rishi Ahuja's Portfolio"
   description: "Welcome to the personal portfolio and project showcase of Rishi Ahuja."
@@ -118,14 +119,18 @@ menu:
       name: About
       url: /about/
       weight: 20
+    - identifier: resume
+      name: Resume
+      url: /Rishi-Ahuja-Resume.pdf
+      weight: 30
     - identifier: projects
       name: Projects
       url: /projects/
-      weight: 30
+      weight: 40
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 40
+      weight: 50
 
 pygmentsUseClasses: true
 markup:
